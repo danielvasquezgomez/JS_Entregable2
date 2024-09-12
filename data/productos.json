@@ -1,0 +1,38 @@
+[
+    {
+        "nombre": "Ficus Rubi",
+        "precio": 35000
+    },
+    {
+        "nombre": "Yuca Triple",
+        "precio": 18000
+    },
+    {
+        "nombre": "Potus Baby",
+        "precio": 12000
+    },
+    {
+        "nombre": "Sansevieria",
+        "precio": 5000
+    },
+    {
+        "nombre": "Peperomia Tricolor",
+        "precio": 8000
+    },
+    {
+        "nombre": "Strelitzia Mega",
+        "precio": 21000
+    },
+    {
+        "nombre": "Monstera Deliciosa",
+        "precio": 20500
+    },
+    {
+        "nombre": "Pilea",
+        "precio": 6500
+    },
+    {
+        "nombre": "Croton Baby",
+        "precio": 10500
+    }
+]
