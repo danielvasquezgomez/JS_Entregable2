@@ -1,5 +1,7 @@
 # Proyecto de Carrito de Compras - Bosque
+(Para que funcione es necesario abrir el archivo con LiveServer)
 
+git
 Este proyecto es una aplicación web para gestionar un carrito de compras. Utiliza JavaScript, HTML y CSS para permitir a los usuarios agregar y disminuir productos, calcular el total con IVA y descuentos, y finalizar la compra. Incluye integración con SweetAlert2 para mostrar mensajes personalizados.
 
 ## Tabla de Contenidos
